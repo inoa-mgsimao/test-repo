@@ -1,2 +1,2 @@
 # test-repo
-Repository for testing GitHub features
+Repository for testing GitHub features.
